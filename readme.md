@@ -11,6 +11,6 @@ lets bash here !
     bash ./run.bash
 
 ```
-{
+
 
 ![alt text](p.jpg)
