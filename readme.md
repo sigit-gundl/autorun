@@ -1,13 +1,16 @@
 # AUTO ERASER FOLDER
 ###### int*autorun.inf
-**bold CMD**
+**CMD**
 
 ![alt text](cb.gif)
 
 lets bash here !
 
+```bash
+
+    bash ./run.bash
+
+```
 {
-    *italicized bash ./run.bash*
-}
 
 ![alt text](p.jpg)
